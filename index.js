@@ -1,4 +1,4 @@
 function iterativeLog(array){
-  array.forEach((element, index, array)=>
+  array.forEach(callback(element, index, array)=>
     {console.log(`${index}:${element}`)})
 }

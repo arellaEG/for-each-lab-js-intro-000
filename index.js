@@ -5,5 +5,5 @@ function iterativeLog(array){
 
 
 function iterate(callback){
-  var myArr=['a','whole','lot','of']
+  var myArr=['i','d','g','a','f']
 }
